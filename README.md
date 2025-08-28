@@ -7,6 +7,12 @@ npm install
 npm run dev
 ```
 
+# Before deployment
+
+```
+npm run build
+```
+
 # First time git setup
 
 ```
